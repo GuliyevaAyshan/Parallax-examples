@@ -1,0 +1,58 @@
+
+.bgim, .bgm2, .bgm3, .bgm4{
+    position: relative;
+    opacity: 0.60;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 10px;
+    height: 100%;
+  
+}
+.bgim{
+    background-image: url("./tel-aviv.jpg");
+    min-height: 600px;
+}
+.caption{
+  
+    position: absolute;
+    left: 40%;
+    top: 100px;
+    width:20%;
+    text-align: center;
+    color: white;
+    border: 5px;
+    background-color: black;
+    padding: 15px;
+}
+div {
+    background-color: lightgrey;
+    color: black;
+    padding:15px;
+    text-align: center;
+    font-size: small;
+    opacity: 0.80;
+}
+.two {
+    background-color:black;
+    color: white;
+}
+.bgm2 {
+background-image: url("./t-a.jpg");
+min-height: 300px;
+}
+.bgm3 {
+    background-image: url("./space.jpg");
+    min-height: 300px;
+   
+    }
+.three {
+    background-color:black;
+    color: white; 
+}
+.bgm4 {
+    background-image: url("./beach\ telaviv.jpg");
+    min-height: 600px;
+ 
+}
+  
